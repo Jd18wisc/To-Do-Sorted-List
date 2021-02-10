@@ -2,15 +2,15 @@
 Version 1.0 (2/10/21)
 First completed section of a to-do list application I am developing.
 
-File descriptions
+File descriptions:
 
-SortedList.java
+SortedList.java:
     - A sorted, doubly-linked list made up of ToDoItems
     - To assist in sorting, the search for the insert starting index begins where the
       last current node was
       - It will then move either up or down the list to the node
 
-ToDoItem.java
+ToDoItem.java:
     - The nodes to be added into the to-do list
 
 Tests.java
