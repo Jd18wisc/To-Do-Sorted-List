@@ -4,6 +4,7 @@ First completed section of a to-do list application I am developing.
 
 File descriptions:
 
+
 SortedList.java:
 
 A sorted, doubly-linked list made up of ToDoItems; to assist in sorting, the search for the insert starting index begins where the last current node was; It will then move either up or down the list to the node
